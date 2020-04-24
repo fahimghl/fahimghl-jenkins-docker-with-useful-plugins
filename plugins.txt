@@ -1,6 +1,7 @@
 blueocean
 credentials-binding
 job-dsl
+configuration-as-code
 git
 pipeline-aws
 performance

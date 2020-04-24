@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t fahimg/blueocean-jenkins .
+docker build -t fahimg/pre-installed-plugins .
